@@ -16,4 +16,4 @@ jobs:
 script:
   - coverage run -m pytest -q test/
 after_success:
-  - bash <(curl -s https://codecov.io/bash) -t d9ad46a5-ddae-4e9b-b0db-959bb96541f0
+  - bash <(curl -s https://codecov.io/bash) -t 02ce7c41-5348-41e4-b13e-5cb01a785bcc

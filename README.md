@@ -8,9 +8,6 @@
 ![YouTube Video Views](https://img.shields.io/youtube/views/6Y8_RQecnZ8?style=social)
 
 [![DOI](https://zenodo.org/badge/295480790.svg)](https://zenodo.org/badge/latestdoi/295480790)
-![GitHub issues](https://img.shields.io/github/issues/harshitpatel96/GITS)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/harshitpatel96/GITS)
-
 ![Lines of code](https://img.shields.io/tokei/lines/github/harshitpatel96/GITS)
 
 [![](https://img.youtube.com/vi/6Y8_RQecnZ8/hqdefault.jpg)](https://youtu.be/6Y8_RQecnZ8 "GITS demo")

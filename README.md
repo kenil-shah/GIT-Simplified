@@ -7,7 +7,7 @@
 [![codecov](https://codecov.io/gh/harshitpatel96/GITS/branch/master/graph/badge.svg?token=G6RG52G2YO)](https://codecov.io/gh/harshitpatel96/GITS/)
 ![YouTube Video Views](https://img.shields.io/youtube/views/6Y8_RQecnZ8?style=social)
 
-[![DOI](https://zenodo.org/badge/295480790.svg)](https://zenodo.org/badge/latestdoi/295480790)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4161659.svg)](https://doi.org/10.5281/zenodo.4161659)
 ![Lines of code](https://img.shields.io/tokei/lines/github/harshitpatel96/GITS)
 
 [![](https://img.youtube.com/vi/6Y8_RQecnZ8/hqdefault.jpg)](https://youtu.be/6Y8_RQecnZ8 "GITS demo")

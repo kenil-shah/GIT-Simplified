@@ -2,13 +2,13 @@
 # GITS 
 ### GIT Simplified
 
-![GitHub](https://img.shields.io/github/license/harshitpatel96/GITS)
+![GitHub](https://img.shields.io/github/license/kenil-shah/GIT-Simplified)
 [![Build Status](https://travis-ci.com/harshitpatel96/GITS.svg?branch=master)](https://travis-ci.com/harshitpatel96/GITS)
 [![codecov](https://codecov.io/gh/harshitpatel96/GITS/branch/master/graph/badge.svg?token=G6RG52G2YO)](https://codecov.io/gh/harshitpatel96/GITS/)
 ![YouTube Video Views](https://img.shields.io/youtube/views/6Y8_RQecnZ8?style=social)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4161659.svg)](https://doi.org/10.5281/zenodo.4161659)
-![Lines of code](https://img.shields.io/tokei/lines/github/harshitpatel96/GITS)
+![Lines of code](https://img.shields.io/tokei/lines/github/kenil-shah/GIT-Simplified)
 
 [![](https://img.youtube.com/vi/6Y8_RQecnZ8/hqdefault.jpg)](https://youtu.be/6Y8_RQecnZ8 "GITS demo")
 
